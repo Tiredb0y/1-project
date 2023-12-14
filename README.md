@@ -13,8 +13,14 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 ## Project Setup
 
 ```sh
+cd vue-project
+```
+for change directory
+
+```sh
 npm install
 ```
+for install node_modules
 
 ### Compile and Hot-Reload for Development
 
