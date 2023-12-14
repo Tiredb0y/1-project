@@ -2,8 +2,6 @@
 
 </script>
 <template>
-    <div>
-    <body>
       <footer>
         <div class="footer-container">
           <div class="contact-info">
@@ -20,11 +18,6 @@
           <p>Hello world</p>
         </div>
       </footer>
-
-    </body>
-
-
-</div>
 </template>
 <style scoped>
 .link{
