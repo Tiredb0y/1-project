@@ -3,10 +3,10 @@
         <form class="ffa">
        <center>
         <div style="margin-top: 20px;"><h1>Feedback</h1></div>
-            <div><p>First Name</p><input placeholder="Your first name" ></div>
-            <div><p>last name</p> <input placeholder="your last name"></div>
-            <div><p>password</p> <input placeholder="your password"></div>
-            <div><p>Email</p><input placeholder="your Email"></div>
+            <div><p>First Name</p><input type="text" placeholder="Your first name" ></div>
+            <div><p>last name</p> <input type="text" placeholder="your last name"></div>
+            <div><p>password</p> <input type="password" placeholder="your password"></div>
+            <div><p>Email</p><input type="email" placeholder="your Email"></div>
             <div><p>Don't Forget me</p><input type="radio" style="margin-bottom: 20px;"></div>
             <div><input type="submit"></div>
        </center>
