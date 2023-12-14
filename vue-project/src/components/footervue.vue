@@ -39,6 +39,7 @@ a:active {
   font-size: .8rem;
   letter-spacing: .09rem;
   padding-left: 10px;
+  margin-bottom: 10px;
 }
 .copyright>p {
   margin: 0;
